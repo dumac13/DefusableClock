@@ -15,6 +15,10 @@ Yellow led
 
 Pin female header / 2x 12 pin, 4 pin
 
+3x pushbutton
+
+
+
 Wire 24AWG sorted colors
 
 
