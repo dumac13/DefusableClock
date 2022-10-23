@@ -3,25 +3,22 @@ List of materials
 
 Components
 
-Arduino Pro Mini
+	Arduino Pro Mini
 
-4 digit 7 Segment display common cathode.
+	4 digit 7 Segment display common cathode.
 
-DS3231 RTC module
+	DS3231 RTC module
 
-Green led
+	Green led
 
-Yellow led
+	Yellow led
 
-Pin female header / 2x 12 pin, 4 pin
+	Pin female header / 2x 12 pin, 4 pin
 
-3x pushbutton
-
-
-
-Wire 24AWG sorted colors
+	3x pushbutton
+	Wire 24AWG sorted colors
 
 
 Tools
 
-FTDI to USB converter
+	FTDI to USB converter
