@@ -59,7 +59,7 @@ void loop() {
 ////////////////////////////////////////////////
   t = rtc.getTime();
 
-  number = Hour * 100 + t.min;
+  number = t.hour * 100 + t.min;
   Display.setNumber(number, 2);
   Display.refreshDisplay();
 
